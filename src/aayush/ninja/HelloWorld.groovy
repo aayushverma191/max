@@ -8,6 +8,6 @@ package aayush.ninja
 
 class HelloWorld {
     static void printMessage() {
-        echo 'Hello, World! This is from the src folder using import.'
+        echo "Hello, World! This is from the src folder using import."
     }
 }
