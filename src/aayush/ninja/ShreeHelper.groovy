@@ -1,6 +1,6 @@
 package aayush.ninja
 
-class colorHelper {
+class ShreeHelper {
    static void printcolor() {
         echo "Hello, World!!
 }
